@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "798132945842",
+    "project_id": "flutter-chatify-app",
+    "storage_bucket": "flutter-chatify-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798132945842:android:2db9103e678e2a65659aab",
+        "android_client_info": {
+          "package_name": "com.example.zchatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798132945842-9oh32utnh03vs9v946nfi7bbdsu0bift.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxw4OtA7HsbRGLBfdPGmtN3iRYJ2obEPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798132945842-9oh32utnh03vs9v946nfi7bbdsu0bift.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798132945842-62k55uahdlgnf0vjf53fdafh101arhlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaselearn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
